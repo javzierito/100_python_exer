@@ -1,6 +1,5 @@
 import time
-counter = 1
+counter = 2
 while True:
     time.sleep(counter)
     print("hello")
-    counter += 1
